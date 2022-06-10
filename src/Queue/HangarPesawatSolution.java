@@ -24,7 +24,7 @@ public class HangarPesawatSolution {
         }catch (Exception e){
             e.printStackTrace();
         }
-    }   
+    }
 }
 
 class Node {
